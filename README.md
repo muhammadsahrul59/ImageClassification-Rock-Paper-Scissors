@@ -10,5 +10,5 @@ efficient image processing.
 ```
 open https://colab.research.google.com/
 click Upload and...
-browse the file 
+browse the file ImageClassification.ipynb
 ```
