@@ -14,7 +14,7 @@ efficient image processing.
 ```
 - Download the file above
 - open https://colab.research.google.com/
-- Upload the file Twitter_Sentiment_NLP.ipynb
+- Upload the file ImageClassification.ipynb
 ```
 
 or you can open it with this Google Colab Link below :
